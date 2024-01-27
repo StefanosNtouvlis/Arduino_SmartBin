@@ -3,6 +3,8 @@
 ## Overview
 
 Welcome to the repository for the "smart," automated trashcan project! In this project, we've created an innovative solution using an Arduino Uno microcontroller, various electronic components, and simple materials to build a trashcan that opens automatically when an object is detected.
+![thumbnail](https://github.com/StefanosNtouvlis/Arduino_SmartBin/assets/81410555/933581c0-2891-4c1b-82cd-930b62e06c5b)
+
 
 ## Components
 
