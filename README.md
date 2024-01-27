@@ -21,6 +21,11 @@ For non-electronic parts, we've employed:
 - **Cardboard:** Used to create the lid.
 - **Thread and Small Weight:** Generate the leverage needed for opening the lid.
 - **Scotch Tape:** Secures connections between the lid and bin, as well as stabilizes the motor.
+- 
+![components](https://github.com/StefanosNtouvlis/Arduino_SmartBin/assets/81410555/c0e32809-88fa-4163-b950-c2f75b756e20)
+![power source](https://github.com/StefanosNtouvlis/Arduino_SmartBin/assets/81410555/dfb63644-d7f9-4dc2-8ef1-9e92ede0579c)
+
+
 
 ## Code
 
